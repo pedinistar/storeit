@@ -1,7 +1,7 @@
 ![Project Logo](./public/assets/icons/logo-full-brand.svg)
 # **StoreIt: Comprehensive File Management System**
 
-**StoreIt** is an advanced file management platform for seamless document and media organization. With its sleek, user-friendly interface, StoreIt empowers you to easily handle documents, images, videos, audio files, and more. Whether you’re storing, searching, or sharing files, StoreIt ensures a streamlined experience.
+**StoreIt** is an advanced file management platform for seamless document and media organization. Built with concepts from the [JavaScript Mastery YouTube Channel](https://www.youtube.com/@javascriptmastery), With its sleek, user-friendly interface, StoreIt empowers you to easily handle documents, images, videos, audio files, and more. Whether you’re storing, searching, or sharing files, StoreIt ensures a streamlined experience.
 
 ---
 
