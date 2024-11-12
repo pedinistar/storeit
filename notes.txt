@@ -1,0 +1,24 @@
+Group Routes or Route Groups
+using ()
+
+/app
+    /(auth)
+        /sign-in
+            -page.tsx
+        /sign-up
+            -page.tsx
+
+Route : http://localhost:3000/sign-in
+Route : http://localhost:3000/sign-up
+
+
+Route Groups also allows us to add a new special file called layout.tsx
+/app
+    /(auth)
+        -layout.tsx
+        /sign-in
+            -page.tsx
+        /sign-up
+            -page.tsx
+
+layout.tsx allows us to show some shared UI or functionality across all of the pages with-in the route group
